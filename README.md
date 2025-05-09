@@ -43,3 +43,7 @@ Zustand allows API logic and global state to live in a centralized store, keepin
 cd MusicLibraryApi/MusicLibraryApi
 dotnet run
 ```
+
+Link to the API (Backend)
+https://github.com/Shinoamartis2000/MusicLibraryApi
+
